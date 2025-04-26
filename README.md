@@ -1,2 +1,2 @@
-# js-basics
+# js-Tutorial
 learning JavaScript from YouTube 
