@@ -26,5 +26,5 @@ console.log(undefined < 0);
 console.log("2" === 2);     // false
 console.log("2" === "2");     // true
 
-console.log(null === 0);
+console.log(null === 0);        // false
 
